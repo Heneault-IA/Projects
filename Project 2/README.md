@@ -10,7 +10,7 @@ There is no output because it was a lot of graphs and the files was too big to b
 ## Librairies Needed
 I used a poetry env
 
-python = "^3.11" \n
+python = "^3.11"
 numpy = "^1.25.0"
 pandas = "^2.0.3"
 matplotlib = "^3.7.1"
