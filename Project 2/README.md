@@ -4,9 +4,6 @@
 https://datacatalog.worldbank.org/search/dataset/0038480
 The csv files should be put in the "Data" folder
 
-## Outputs
-There is no output because it was a lot of graphs and the files was too big to be put in Github.
-
 ## Librairies Needed
 I used a poetry env
 
