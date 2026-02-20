@@ -1,29 +1,36 @@
-# Projects
-Here are the projects that I've done during my formation.
+# 🚀 Portfolio de Projets Data
 
-## Project 2
-Project with the World Data Bank data about education. I had to look for the possibility to expand an online eduction school.
+Bienvenue sur mon portfolio de projets réalisés durant ma formation. Vous trouverez ici une série de projets couvrant divers domaines de la Data Science, de l'Analyse de Données au Machine Learning, IA et au Big Data.
 
-## Project 3
-Project with the Open Food Facts data. I had to analyse the data to find if the autocomplete is possible.
+## 📂 Liste des Projets
 
-## Project 4
-Project with the Seattle data of 2016. I had to make a model to predict the CO2 and energy consumption.
+- **[Projet 2 : Analyse de Données Éducatives](./Project%202)**
+  - _Sujet_ : Analyse des données de la Banque Mondiale (World Data Bank) sur l'éducation.
+  - _Objectif_ : Étudier la faisabilité d'une expansion pour une école d'éducation en ligne.
+- **[Projet 3 : Analyse des Données Open Food Facts](./Project%203)**
+  - _Sujet_ : Exploitation des données Open Food Facts.
+  - _Objectif_ : Analyser les données afin de déterminer si un système d'autocomplétion est envisageable.
+- **[Projet 4 : Prédiction d'Émissions CO2 et Consommation Énergétique](./Project%204)**
+  - _Sujet_ : Analyse des données de la ville de Seattle (2016).
+  - _Objectif_ : Créer un modèle prédictif pour estimer les émissions de CO2 et la consommation d'énergie des bâtiments.
+- **[Projet 5 : Segmentation Client E-commerce](./Project%205)**
+  - _Sujet_ : Exploitation des données Olist (e-commerce brésilien).
+  - _Objectif_ : Réaliser une segmentation des clients et simuler son évolution dans le temps.
+- **[Projet 6 : Classification d'Images et Traitement du Langage Naturel (NLP)](./Project%206)**
+  - _Sujet_ : Analyse croisée de données textuelles et visuelles.
+  - _Objectif_ : Étude de faisabilité puis création de modèles de Deep Learning pour la classification de descriptions et d'images.
+- **[Projet 7 : Moteur de Scoring et Création d'API](./Project%207)**
+  - _Sujet_ : Données Home Credit Default Risk.
+  - _Objectif_ : Développer un modèle de scoring (risque de défaut de crédit) et déployer une API REST permettant de renvoyer ce score.
+- **[Projet 8 : Dashboard Interactif et Veille Technologique](./Project%208)**
+  - _Sujet_ : Suite du Projet 7.
+  - _Objectif_ : Création d'un tableau de bord (Dashboard) interactif utilisant l'API du Projet 7, accompagné d'une veille technologique.
+- **[Projet 9 : Architecture Big Data sur AWS](./Project%209)**
+  - _Sujet_ : Données d'images de fruits.
+  - _Objectif_ : Mettre en place une infrastructure Big Data sur AWS et réaliser la featurisation des images à l'aide de Spark.
+- **[Projet 10 : Gestion de Projet](./Project%2010)**
+  - _Sujet_ : Méthodologies et gestion de projet appliquée.
 
-## Project 5
-Project with Olist data. I had to make a model to segment customers of an e-commerce site.
+---
 
-## Project 6
-Project with images data. I had to make 2 deep learning models to classify descriptions and images.
-
-## Project 7
-Project with Home Credit Default Risk data. I had to make a scoring model and create and API that return a score.
-
-## Project 8
-Project with Home Credit Default Risk data. I had to make a dashboard using the API I created in the Project 7 And a technical monitoring.
-
-## Project 9
-Project with Fruits data. I had to make a Big Data structure with AWS and to featurize images using Spark.
-
-## Project 10
-Project of Project Management.
+_Créé par Heneault Thomas_

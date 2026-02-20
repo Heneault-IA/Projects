@@ -1,26 +1,26 @@
-# Project 7 : Scoring Model & API online with Github and Heroku
+# 🏦 Projet 7 : Moteur de Scoring et Création d'API (Home Credit Default Risk)
 
-## Data Needeed
-https://www.kaggle.com/c/home-credit-default-risk/data to download in the "Data" folder
+## 🎯 Objectif du Projet
 
-## Librairies Needed
-python = "^3.11"
-pandas = "^2.1.4"
-numpy = "^1.26.2"
-scikit-learn = "^1.3.2"
-matplotlib = "^3.8.2"
-seaborn = "^0.13.0"
-jupyter = "^1.0.0"
-jupyter-contrib-nbextensions = "^0.7.0"
-notebook = "6.4.13"
-mlflow = "^2.9.2"
-autopep8 = "^2.0.4"
-yapf = "^0.40.2"
-lightgbm = "^4.2.0"
-shap = "^0.44.0"
-wheel = "^0.42.0"
-imbalanced-learn = "^0.11.0"
-joblib = "^1.3.2"
-streamlit = "^1.29.0"
-pytest = "^7.4.4"
-evidently = "^0.4.13"
+Dans le cadre de l'évaluation du risque de crédit pour l'entreprise "Prêt à dépenser", ce projet consiste à :
+
+1. Construire un modèle de Machine Learning de scoring de crédit (prédiction de probabilité de défaut de paiement).
+2. Développer une API REST pour interroger le modèle.
+3. Déployer l'API sur le cloud (avec intégration continue via Github & Heroku).
+
+## 🗂️ Données Nécessaires
+
+Les données proviennent de la compétition Kaggle "Home Credit Default Risk" :
+🔗 [Dataset Kaggle Home Credit](https://www.kaggle.com/c/home-credit-default-risk/data)
+
+⚠️ **Instruction** : Télécharger et extraire dans le dossier `Data`.
+
+## 🛠️ Outils et Environnement
+
+Environnement préconisé : `python ^3.11`
+
+### Librairies principales :
+
+- **Data & ML** : `pandas` (^2.1.4), `numpy` (^1.26.2), `scikit-learn` (^1.3.2), `lightgbm` (^4.2.0), `imbalanced-learn` (^0.11.0)
+- **MLOps & API** : `mlflow` (^2.9.2), `streamlit` (^1.29.0), `evidently` (^0.4.13), `pytest` (^7.4.4)
+- **Interprétabilité** : `shap` (^0.44.0)
